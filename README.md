@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20GET%20ANIIMO%20TRAINER%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
+  <img src="<img width="2167 height="52" alt="image" src="https://github.com/user-attachments/assets/1ab727dd-b802-453e-8177-36804e11ba8b"/>
 </a>
 
 <br/><br/>
