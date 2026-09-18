@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/ea325c97-714b-4b32-b40b-9e9fc08aa607" />
+  <img width="500" height="60" alt="image" src="https://github.com/user-attachments/assets/ea325c97-714b-4b32-b40b-9e9fc08aa607" />
 
 
 </a>
@@ -152,7 +152,7 @@ Game:              Aniimo — current Steam release
 <div align="center">
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/70c63f2d-504f-4e91-9190-592ab8711b6d" />
+  <img width="500" height="60" alt="image" src="https://github.com/user-attachments/assets/70c63f2d-504f-4e91-9190-592ab8711b6d" />
 
 </a>
 
