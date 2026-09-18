@@ -8,9 +8,7 @@
 <br/>
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img width="500" height="60" alt="image" src="https://github.com/user-attachments/assets/ea325c97-714b-4b32-b40b-9e9fc08aa607" />
-
-
+  <img width="500" height="60" alt="ChatGPT Image 18 сент  2026 г , 15_07_15" src="https://github.com/user-attachments/assets/24206c3d-c5f4-4f37-9723-8bfb4c6d0c83" />
 </a>
 
 <br/><br/>
