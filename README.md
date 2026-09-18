@@ -8,7 +8,8 @@
 <br/>
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img width="500" height="60" alt="ChatGPT Image 18 сент  2026 г , 15_07_15" src="https://github.com/user-attachments/assets/24206c3d-c5f4-4f37-9723-8bfb4c6d0c83" />
+  <img width="2168" height="725" alt="ChatGPT Image 18 сент  2026 г , 15_07_15" src="https://github.com/user-attachments/assets/3f81c3b2-5d5b-4480-a1c9-b7e059b99997" />
+
 </a>
 
 <br/><br/>
@@ -150,7 +151,7 @@ Game:              Aniimo — current Steam release
 <div align="center">
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img width="500" height="60" alt="image" src="https://github.com/user-attachments/assets/70c63f2d-504f-4e91-9190-592ab8711b6d" />
+  <img width="2168" height="725" alt="ChatGPT Image 18 сент  2026 г , 15_07_15" src="https://github.com/user-attachments/assets/63f23425-4e29-4bbd-a565-e71fef67791e" />
 
 </a>
 
