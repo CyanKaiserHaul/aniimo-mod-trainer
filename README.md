@@ -8,7 +8,8 @@
 <br/>
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img width="2167" height="725" alt="image" src="https://github.com/user-attachments/assets/5e84a880-d8f7-4d3b-99e5-8047e929d705" />
+  <img width="2168" height="52" alt="image" src="https://github.com/user-attachments/assets/ea325c97-714b-4b32-b40b-9e9fc08aa607" />
+
 
 </a>
 
