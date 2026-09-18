@@ -152,7 +152,8 @@ Game:              Aniimo — current Steam release
 <div align="center">
 
 <a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20ANIIMO%20TRAINER%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
+  <img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/70c63f2d-504f-4e91-9190-592ab8711b6d" />
+
 </a>
 
 </div>
